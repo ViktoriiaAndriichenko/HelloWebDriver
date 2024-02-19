@@ -38,6 +38,8 @@
 <!--        <artifactId>plugin-api</artifactId>-->
 <!--        <version>5.1.0</version>-->
 <!--    </dependency>-->
+    <!-- https://mvnrepository.com/artifact/io.github.barvin/report-portal-client -->
+
 
 </dependencies>
 
